@@ -3,14 +3,14 @@ Optimization Of Wordpress
 
 ////////////Branch Plugins
 
--Classic-editor
+*Classic-editor
 
--Contact-form-7
+*Contact-form-7
 
--Elementor
+*Elementor
 
--Elementor-pro
+*Elementor-pro
 
--Mesmerize-companion
+*Mesmerize-companion
 
 -IF ANY SUGGESTION OR ADDING A NEW PLUGIN ON YOUR BRANCH PLEASE NOT THERE!!!!!!!!!!!!!
