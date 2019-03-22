@@ -1,7 +1,7 @@
 # Hermes Event & Organization
-Optimization Of Wordpress
+Design Wordpress Website
 
-////////////Branch Plugins
+//Wordpress Plugins
 
 *Classic-editor
 
@@ -13,4 +13,4 @@ Optimization Of Wordpress
 
 *Mesmerize-companion
 
--IF ANY SUGGESTION OR ADDING A NEW PLUGIN ON YOUR BRANCH PLEASE NOT THERE!!!!!!!!!!!!!
+-IF ANY SUGGESTION OR ADDING A NEW PLUGIN ON THE PROJECT PLEASE NOTE HERE!
